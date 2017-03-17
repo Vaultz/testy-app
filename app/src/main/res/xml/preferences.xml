@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <MultiSelectListPreference
+        android:key="key_prefs"
+        android:title="Preferences"
+        android:summary="Filtrage"
+        android:entries="@array/categories_values"
+        android:entryValues="@array/categories_label"
+        android:defaultValue="@array/categories_label"
+       />
+
+    <Preference
+        android:key="key_notif"
+        android:title="Notification"
+        />
+
+</PreferenceScreen>

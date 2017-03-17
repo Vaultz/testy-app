@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="custom_string">COCHON</string>
+    <string name="boldtext">Contre toute attente, le marché des montres connectées est en hausse en 2016.</string>
+    <string name="regulartext">Alors qu\'il ne se passait pas un mois en 2014 et en 201 sans que l\'on entende parler d\'une nouvelle montre connectée, l\'année 2016</string>
+    <integer name="grid">1</integer>
+</resources>
